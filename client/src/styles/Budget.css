@@ -1,0 +1,19 @@
+.budget-container {
+  padding: 2rem;
+}
+
+.budget-container h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.budget-summary {
+  margin-top: 2rem;
+}
+
+.budget-summary li {
+  background: #f9f9f9;
+  padding: 0.75rem;
+  margin-bottom: 0.5rem;
+  border-radius: 6px;
+}

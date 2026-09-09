@@ -1,0 +1,17 @@
+.compare-container {
+  padding: 2rem;
+}
+
+.compare-container h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.compare-card {
+  background: white;
+  border: 1px solid #ddd;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
